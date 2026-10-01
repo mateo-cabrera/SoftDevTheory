@@ -18,3 +18,4 @@ This is my Top Ten list of useful tools and platforms for MSR.
 9. Jupyter Notebook
 10. pandas
 11. Claude Code
+12. GitLab
