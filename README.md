@@ -12,7 +12,7 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 4. **PK Shampoo** 
 5. **星野源** – 
 6. **グソクムズ** – 
-7. **サカナクション** – 
+7. **サカナクション** – legendary electro-rock vibes !
 8. **藤井風** – 
 9. **自爆** – 
 10. **下津光史** – 
