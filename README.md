@@ -10,7 +10,7 @@ The task is to accept Pull Requests based on a unique theme for a top ten list.
 
 Top Ten simple, cheap, and reasonably nutritious home meals for a student living alone.
 
-一人暮らしの学生が家で作って食べるご飯。簡単で、安く、そこそこ栄養があるもの。味が薄くてご飯が進まないものは入れていない。
+一人暮らしの学生が家で作って食べるご飯。簡単で、安く、そこそこ栄養があるもの。
 
 This is not a general list of Japanese dishes. A classmate already posted "TOP 10 japanese food."
 
