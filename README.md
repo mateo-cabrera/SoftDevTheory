@@ -13,3 +13,4 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 5. your brain duh
 6. OpenAI dots! - well I am not sure about it!
 7. [context7](https://github.com/upstash/context7) - an MCP that feeds up-to-date library docs straight into your agent's context
+8. LlamaIndex - just read about this. It seems to help with turning messy docs into clean, structured context that agents can reason over.
